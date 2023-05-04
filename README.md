@@ -10,5 +10,5 @@ Select top 11 Players based on the WorldCup Cricket Data.
  1. The team should be able to score at least 180 runs on average.
  2. They should defend 150 Runs on an average.
 ### Parameters of the players:
-   #### Openers- To select Opening Batsman 
+   #### Openers- To select Opening Batsman  
    
